@@ -1,4 +1,4 @@
-The project consists of codepen clone
+The project consists of codepen clone 
 ↳ Where you can write your HTMl,CSS,JS code at a single webpage and the output will be shown in  real time on the same web page, and local storage hook is been used so that even if you refresh the page, contents       will remain the same.
 make sure you must install Vite as a prerequsites
 Execution:-
